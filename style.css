@@ -8,7 +8,7 @@
 
 @font-face{
     font-family: "Geist Sans";
-    src: url("/assets/fonts/geist-sans-latin-400-normal.ttf") format("truetype");
+    src: url("assets/fonts/geist-sans-latin-400-normal.ttf") format("truetype");
     font-weight: 400;
 }
 
@@ -784,5 +784,6 @@ footer .right i{
 section.testimonial, section.frontier, section.logs, section.join-us {
     padding: 67px 20px !important;
 }
+
 
 
